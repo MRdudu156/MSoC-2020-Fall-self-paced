@@ -14,53 +14,16 @@ This repository is for the co-teaching course "Multimedia System-on-Chip Design"
 
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-* [Project Category](#project-category)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-Implemet the Xilinx HLS Example – atan2_CORDIC. 
-Use HLS for optimization and put it on zedboard for verification.
+|    Project name    |                            Content                             |          Related Topics           |
+|:------------------:|:--------------------------------------------------------------:|:---------------------------------:|
+|        Lab1        |                 Vivado-HLS & Vivado work flow                  |   Vivado-HLS, PYNQ, Multiplier    |
+|  Lab2-1 & Lab2-2   |               AXI-Master & AXI-Stream interface                |           AXI-M, AXI-S            |
+|     Video_edge     | Video Edge detection acceleration design by OpenCV-HLS library | OpenCV-hls, PYNQ, video-streaming |
+|        Lab3        |                       XRT, HW emulation                        |               Vitis               |
+| H264 Video Decoder |                          NALU-to-YUV                           |               Vitis               |
+|        CNN         |                       Digit Recognition                        |  Vivado-HLS, Dataflow, streaming  |
+|    CORDIC_SQRT     |                             CORDIC                             |      PYNQ, Vivado-HLS, AXIS       |
 
 
 
-## Project Category
-* [atan2_cordic](https://github.com/Xilinx/HLx_Examples/tree/master/Math/atan2_cordic) , kamranjk, Implementing the math function atan2 by cordic algorithm
 
-<!-- USAGE EXAMPLES -->
-## Usage
-1. fpga board setup
-
-We use **Xilinx ZedBoard Evaluation and Development Kit** to evaulate this project
-
-2. run script.tcl
-```sh
- vivado_hls script.tcl
-```
-3. Use vivado2019.2 build the system 
-4. Run host program on jupyter notebook (your_zedboard_ip:9090)
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-
-
-<!-- LICENSE -->
-## License
-
-
-
-<!-- CONTACT -->
-## Contact
