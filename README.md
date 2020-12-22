@@ -6,10 +6,10 @@ This repository is for the co-teaching course "Multimedia System-on-Chip Design"
 
 # MSOC2020
 
-|    Project name    |                            Content                             |          Related Topics           |
-|:------------------:|:--------------------------------------------------------------:|:---------------------------------:|
-|    CORDIC_SQRT     |                             CORDIC                             |      PYNQ, Vivado-HLS, AXIS       |
-|    CORDIC_SQRT     |                             CORDIC                             |      PYNQ, Vivado-HLS, AXIS       |
+| Project name | Content     |     Related Topics     |
+|:------------:|:-------:    |:----------------------:|
+| CORDIC_SQRT  | CORDIC      | PYNQ, Vivado-HLS, AXIS |
+| atan2_cordic | Linear Algebra Library: Atan2() Example      | PYNQ, Vivado-HLS, AXIS |
 
 
 
