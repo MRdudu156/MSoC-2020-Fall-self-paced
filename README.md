@@ -9,6 +9,7 @@ This repository is for the co-teaching course "Multimedia System-on-Chip Design"
 | Project name | Content     |     Related Topics     |
 |:------------:|:-------:    |:----------------------:|
 | CORDIC_SQRT  | CORDIC      | PYNQ, Vivado-HLS, AXIS |
+| FP_ACCUM | float32 accumulator      | PYNQ, Vivado-HLS, AXIS |
 | atan2_cordic | Linear Algebra Library: Atan2() Example      | PYNQ, Vivado-HLS, AXIS |
 
 
